@@ -9,14 +9,17 @@ public class GitTest {
     
          System.out.println("git 工具类修改了");
     }
+
+    //我写的代码
      public void eat(){
         int a=0;
         int b=0;
 
          System.out.println("猫吃鱼");
      }
-    public void eat(){
-
-        System.out.println("git 工具类修改了");
-    }
+     //同事写的代码
+//    public void eat(){
+//
+//        System.out.println("git 工具类修改了");
+//    }
 }
