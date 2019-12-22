@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef63a395-3e9d-48dc-a91d-c9204f30c17d" name="Default Changelist" comment="" />
+    <list default="true" id="ef63a395-3e9d-48dc-a91d-c9204f30c17d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -26,6 +36,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VK2gmXl1OzYKoebfQ43qAQDZNt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -62,17 +74,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576987579882</updated>
-      <workItem from="1576987583598" duration="1325000" />
+      <workItem from="1576987583598" duration="2002000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1576994613925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576994613926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="140" y="23" key="#Project_Structure" timestamp="1576994402241">
       <screen x="0" y="23" width="1280" height="724" />
     </state>
     <state x="140" y="23" key="#Project_Structure/0.23.1280.724@0.23.1280.724" timestamp="1576994402241" />
+    <state x="172" y="23" key="CommitChangelistDialog2" timestamp="1576994613554">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="172" y="23" key="CommitChangelistDialog2/0.23.1280.724@0.23.1280.724" timestamp="1576994613554" />
+    <state x="140" y="64" key="Vcs.Push.Dialog.v2" timestamp="1576994841753">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="140" y="64" key="Vcs.Push.Dialog.v2/0.23.1280.724@0.23.1280.724" timestamp="1576994841753" />
+    <state x="406" y="144" key="git4idea.merge.GitPullDialog" timestamp="1576994825466">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="406" y="144" key="git4idea.merge.GitPullDialog/0.23.1280.724@0.23.1280.724" timestamp="1576994825466" />
   </component>
 </project>
