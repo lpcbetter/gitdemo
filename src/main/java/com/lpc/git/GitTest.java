@@ -15,4 +15,8 @@ public class GitTest {
 
          System.out.println("猫吃鱼");
      }
+    public void eat(){
+
+        System.out.println("git 工具类修改了");
+    }
 }
