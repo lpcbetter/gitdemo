@@ -9,4 +9,8 @@ public class GitTest {
     
          System.out.println("git 工具类修改了");
     }
+    public void eat(){
+    
+        System.out.println("git 工具类修改了");
+    }
 }
